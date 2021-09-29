@@ -1,0 +1,16 @@
+.navbar-container {
+  display: flex;
+  justify-content: center;
+}
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+.nav-menu-item {
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin: 10px;
+  list-style-type: none;
+}
